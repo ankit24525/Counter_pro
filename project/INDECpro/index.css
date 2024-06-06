@@ -1,0 +1,45 @@
+.Counterdiv{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color:  #344151; ;
+    gap: 10px;
+}
+.Inc{
+  
+    font: medium;
+    font-size: 20px;
+    color: #0398d4;
+}
+.butt{
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    border-radius: 8px;
+    gap: 8px;
+color: #344151;
+
+
+}
+.Coubutt{
+    border-right: 2px;
+    border-color: white;
+    padding: 12px;
+    border-radius: 7px;
+}
+.Coubutt1{
+    border-left: 2px;
+    padding: 12px;
+    border-color: white;
+    border-radius: 7px;
+}
+.Num{
+font-weight: bold;
+font-size: 30px;
+border-color: white;
+padding: 3px;
+
+}
